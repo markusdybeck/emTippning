@@ -22,6 +22,8 @@ The groups are ordered by the UEFA criterias.
 The First and second team from all groups will move on to the next stage, aswell as the four best thirds from all groups.
 
 The Uefa criterias are:
+
+
 1. Higher number of points obtained in the matches played among the teams in question
 2. Superior goal difference resulting from the matches played among the teams in question
 3. higher number of goals scored in the matches played among the teams in question
