@@ -9,7 +9,8 @@ A simple but powerful tool that help you find calculate the tournament tree in t
 In a few simple steps you can get this on you website.
 Download the source em.js source file and include it in your website.
 Set the id on a html tag to "nojsEuro" where you want the tool to be.
-<code><div id='nojsEuro'></div></code>
+
+<code> "<div id='nojsEuro'></div>" </code>
 
 ### What else?
 
